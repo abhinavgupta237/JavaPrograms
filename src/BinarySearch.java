@@ -30,6 +30,7 @@ public class BinarySearch {
             System.out.println(c);
         }
         else System.out.println("Element not found");
+        System.out.println("Verify the commit on Github");
 
     }
 }
